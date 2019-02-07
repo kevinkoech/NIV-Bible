@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Biblify</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="left">&#xf0d9;</string>
+    <string name="right">&#xf0da;</string>
+    <string name="english">English</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="mode">Mode</string>
+
+
+
+
+
+
+    <!-- OnBoard Screen. -->
+
+    <string name="ob_header1">Biblify</string>
+    <string name="ob_header2">Spiritual Growth</string>
+    <string name="ob_header3">Anytime ,Anywhere,Anyone</string>
+    <string name="ob_header4">Jesus I love you</string>
+    <string name="ob_header5">About</string>
+
+    <string name="ob_get_started">GET STARTED</string>
+
+    <string name="ob_desc1">This is a Digital Bible  ESV/NIV Be Kind,forgive and assist the needy</string>
+    <string name="ob_desc2">Walk through the  Scripture and may God Bless you.</string>
+    <string name="ob_desc3">Easily read the scriptures offline,anytime , anywhere!</string>
+    <string name="ob_desc4">May God bless the work of our hands and forgive us our sins</string>
+    <string name="ob_desc5">Kevin Koech Email:kevkokip@gmail.com</string>
+
+</resources>
